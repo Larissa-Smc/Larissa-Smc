@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <a href="https://imgbb.com/">
-     <img align="right" alt="Rafa-Csharp" height="150" width="150" src="https://i.ibb.co/6mb0P7Y/fotogit.png"
+     <img align="right" alt="Rafa-Csharp" height="150" width="150" src="https://i.picasion.com/pic92/3358006b4bd48006d5e0703b67801864.gif"
 </div>
   
   
