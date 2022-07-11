@@ -34,3 +34,5 @@
  
  
 </div>
+
+![snake gif](https://github.com/Larissa-Smc/Larissa-Smc/blob/output/github-contribution-grid-snake.gif)
